@@ -1,0 +1,15 @@
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/bin/Debug/net5.0/AssignmentOne.deps.json
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/bin/Debug/net5.0/AssignmentOne.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/bin/Debug/net5.0/AssignmentOne.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/bin/Debug/net5.0/AssignmentOne.dll
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/bin/Debug/net5.0/ref/AssignmentOne.dll
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/bin/Debug/net5.0/AssignmentOne.pdb
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/AssignmentOne.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/AssignmentOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/AssignmentOne.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/AssignmentOne.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/AssignmentOne.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/AssignmentOne.dll
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/ref/AssignmentOne.dll
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/AssignmentOne.pdb
+/Users/stemmingup/Projects/DualCredit/AssignmentOne/AssignmentOne/obj/Debug/net5.0/AssignmentOne.genruntimeconfig.cache

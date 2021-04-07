@@ -1,0 +1,15 @@
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/bin/Debug/net5.0/Week2DualCredit.deps.json
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/bin/Debug/net5.0/Week2DualCredit.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/bin/Debug/net5.0/Week2DualCredit.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/bin/Debug/net5.0/Week2DualCredit.dll
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/bin/Debug/net5.0/ref/Week2DualCredit.dll
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/bin/Debug/net5.0/Week2DualCredit.pdb
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/Week2DualCredit.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/Week2DualCredit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/Week2DualCredit.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/Week2DualCredit.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/Week2DualCredit.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/Week2DualCredit.dll
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/ref/Week2DualCredit.dll
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/Week2DualCredit.pdb
+/Users/stemmingup/Projects/DualCredit/Week2DualCredit/Week2DualCredit/obj/Debug/net5.0/Week2DualCredit.genruntimeconfig.cache

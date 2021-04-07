@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{86897276-2102-41D7-BD12-14EF45F22811}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week3Lesson PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week3Lesson/Program.cs">
+    <Files>
+      <File FileName="Week3Lesson/Program.cs" Line="115" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week3Lesson" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

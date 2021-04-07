@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{363A8B61-1514-4846-A185-E36894146B6D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week2DualCredit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week2DualCredit/Program.cs">
+    <Files>
+      <File FileName="Week2DualCredit/Program.cs" Line="39" Column="26" />
+      <File FileName="Week2DualCredit/Week2DualCredit.csproj" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

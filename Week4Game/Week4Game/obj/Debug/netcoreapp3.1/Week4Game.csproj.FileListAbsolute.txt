@@ -1,0 +1,12 @@
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/bin/Debug/netcoreapp3.1/Week4Game.deps.json
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/bin/Debug/netcoreapp3.1/Week4Game.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/bin/Debug/netcoreapp3.1/Week4Game.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/bin/Debug/netcoreapp3.1/Week4Game.dll
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/bin/Debug/netcoreapp3.1/Week4Game.pdb
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/obj/Debug/netcoreapp3.1/Week4Game.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/obj/Debug/netcoreapp3.1/Week4Game.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/obj/Debug/netcoreapp3.1/Week4Game.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/obj/Debug/netcoreapp3.1/Week4Game.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/obj/Debug/netcoreapp3.1/Week4Game.dll
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/obj/Debug/netcoreapp3.1/Week4Game.pdb
+/Users/stemmingup/Projects/DualCredit/Week4Game/Week4Game/obj/Debug/netcoreapp3.1/Week4Game.genruntimeconfig.cache

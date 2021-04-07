@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{AD16DF34-2918-48BE-A6D8-541F0D1EBDDE}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstWeeklyActivityArianne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstWeeklyActivityArianne/Program.cs">
+    <Files>
+      <File FileName="FirstWeeklyActivityArianne/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstWeeklyActivityArianne" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/bin/Debug/net5.0/FirstWeeklyActivityArianne.deps.json
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/bin/Debug/net5.0/FirstWeeklyActivityArianne.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/bin/Debug/net5.0/FirstWeeklyActivityArianne.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/bin/Debug/net5.0/FirstWeeklyActivityArianne.dll
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/bin/Debug/net5.0/ref/FirstWeeklyActivityArianne.dll
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/bin/Debug/net5.0/FirstWeeklyActivityArianne.pdb
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/FirstWeeklyActivityArianne.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/FirstWeeklyActivityArianne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/FirstWeeklyActivityArianne.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/FirstWeeklyActivityArianne.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/FirstWeeklyActivityArianne.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/FirstWeeklyActivityArianne.dll
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/ref/FirstWeeklyActivityArianne.dll
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/FirstWeeklyActivityArianne.pdb
+/Users/stemmingup/Projects/DualCredit/FirstWeeklyActivityArianne/FirstWeeklyActivityArianne/obj/Debug/net5.0/FirstWeeklyActivityArianne.genruntimeconfig.cache

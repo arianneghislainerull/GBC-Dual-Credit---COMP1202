@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{83BC2473-F262-4C61-B782-8E71E8795409}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week4Game/Program.cs">
+    <Files>
+      <File FileName="Week4Game/Program.cs" Line="38" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week4Game" expanded="True">
+            <Node name="Week4Game" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Week4Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
