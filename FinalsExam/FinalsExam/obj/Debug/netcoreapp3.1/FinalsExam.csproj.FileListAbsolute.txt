@@ -1,0 +1,12 @@
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/obj/Debug/netcoreapp3.1/FinalsExam.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/obj/Debug/netcoreapp3.1/FinalsExam.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/obj/Debug/netcoreapp3.1/FinalsExam.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/obj/Debug/netcoreapp3.1/FinalsExam.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/bin/Debug/netcoreapp3.1/FinalsExam.deps.json
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/bin/Debug/netcoreapp3.1/FinalsExam.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/bin/Debug/netcoreapp3.1/FinalsExam.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/bin/Debug/netcoreapp3.1/FinalsExam.dll
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/bin/Debug/netcoreapp3.1/FinalsExam.pdb
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/obj/Debug/netcoreapp3.1/FinalsExam.dll
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/obj/Debug/netcoreapp3.1/FinalsExam.pdb
+/Users/stemmingup/Projects/DualCredit/FinalsExam/FinalsExam/obj/Debug/netcoreapp3.1/FinalsExam.genruntimeconfig.cache

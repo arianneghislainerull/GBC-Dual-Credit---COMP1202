@@ -1,0 +1,12 @@
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/bin/Debug/netcoreapp3.1/Week9Lesson.deps.json
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/bin/Debug/netcoreapp3.1/Week9Lesson.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/bin/Debug/netcoreapp3.1/Week9Lesson.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/bin/Debug/netcoreapp3.1/Week9Lesson.dll
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/bin/Debug/netcoreapp3.1/Week9Lesson.pdb
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/obj/Debug/netcoreapp3.1/Week9Lesson.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/obj/Debug/netcoreapp3.1/Week9Lesson.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/obj/Debug/netcoreapp3.1/Week9Lesson.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/obj/Debug/netcoreapp3.1/Week9Lesson.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/obj/Debug/netcoreapp3.1/Week9Lesson.dll
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/obj/Debug/netcoreapp3.1/Week9Lesson.pdb
+/Users/stemmingup/Projects/DualCredit/Week9Lesson/Week9Lesson/obj/Debug/netcoreapp3.1/Week9Lesson.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{22D269BB-FBDE-4BFB-89B7-3571126D0C9A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Trial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trial/Program.cs">
+    <Files>
+      <File FileName="Trial/System/Text/Encodings/Web/Services.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Trial/Program.cs" Line="26" Column="17" />
+      <File FileName="Trial/List.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trial" expanded="True">
+            <Node name="Trial" expanded="True">
+              <Node name="System" expanded="True">
+                <Node name="Text" expanded="True">
+                  <Node name="Encodings" expanded="True">
+                    <Node name="Web" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

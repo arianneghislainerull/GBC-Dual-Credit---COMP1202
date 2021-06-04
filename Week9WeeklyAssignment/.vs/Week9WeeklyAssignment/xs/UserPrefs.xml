@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{56B55DF3-64BB-4C49-B3DF-B7BC004B4C1A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week9WeeklyAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week9WeeklyAssignment/SavingsAccount.cs">
+    <Files>
+      <File FileName="Week9WeeklyAssignment/Program.cs" Line="13" Column="11" />
+      <File FileName="Week9WeeklyAssignment/BankAccount.cs" Line="24" Column="20" />
+      <File FileName="Week9WeeklyAssignment/CheckingAccount.cs" Line="11" Column="23" />
+      <File FileName="Week9WeeklyAssignment/SavingsAccount.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/obj/Debug/netcoreapp3.1/Week9WeeklyAssignment.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/obj/Debug/netcoreapp3.1/Week9WeeklyAssignment.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/obj/Debug/netcoreapp3.1/Week9WeeklyAssignment.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/obj/Debug/netcoreapp3.1/Week9WeeklyAssignment.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/bin/Debug/netcoreapp3.1/Week9WeeklyAssignment.deps.json
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/bin/Debug/netcoreapp3.1/Week9WeeklyAssignment.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/bin/Debug/netcoreapp3.1/Week9WeeklyAssignment.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/bin/Debug/netcoreapp3.1/Week9WeeklyAssignment.dll
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/bin/Debug/netcoreapp3.1/Week9WeeklyAssignment.pdb
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/obj/Debug/netcoreapp3.1/Week9WeeklyAssignment.dll
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/obj/Debug/netcoreapp3.1/Week9WeeklyAssignment.pdb
+/Users/stemmingup/Projects/DualCredit/Week9WeeklyAssignment/Week9WeeklyAssignment/obj/Debug/netcoreapp3.1/Week9WeeklyAssignment.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FirstWeeklyActivity_Arianne/1.0.0": {
+        "runtime": {
+          "FirstWeeklyActivity_Arianne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstWeeklyActivity_Arianne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

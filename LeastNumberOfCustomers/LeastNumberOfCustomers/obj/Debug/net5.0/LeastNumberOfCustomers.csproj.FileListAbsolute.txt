@@ -1,0 +1,15 @@
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/bin/Debug/net5.0/LeastNumberOfCustomers.deps.json
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/bin/Debug/net5.0/LeastNumberOfCustomers.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/bin/Debug/net5.0/LeastNumberOfCustomers.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/bin/Debug/net5.0/LeastNumberOfCustomers.dll
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/bin/Debug/net5.0/ref/LeastNumberOfCustomers.dll
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/bin/Debug/net5.0/LeastNumberOfCustomers.pdb
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/LeastNumberOfCustomers.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/LeastNumberOfCustomers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/LeastNumberOfCustomers.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/LeastNumberOfCustomers.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/LeastNumberOfCustomers.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/LeastNumberOfCustomers.dll
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/ref/LeastNumberOfCustomers.dll
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/LeastNumberOfCustomers.pdb
+/Users/stemmingup/Projects/DualCredit/LeastNumberOfCustomers/LeastNumberOfCustomers/obj/Debug/net5.0/LeastNumberOfCustomers.genruntimeconfig.cache

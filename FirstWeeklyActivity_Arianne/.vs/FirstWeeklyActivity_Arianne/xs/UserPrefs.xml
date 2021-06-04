@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{185DA7C4-9A55-4872-BF49-81BD7ACA7324}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstWeeklyActivity__Arianne FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstWeeklyActivity_Arianne/Program.cs">
+    <Files>
+      <File FileName="FirstWeeklyActivity_Arianne/Program.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

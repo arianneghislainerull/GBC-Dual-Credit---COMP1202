@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{96B4A3CE-0A4C-4892-9E1B-A35C8B0B83DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HighestRevenue/Program.cs">
+    <Files>
+      <File FileName="HighestRevenue/Program.cs" Line="46" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HighestRevenue" expanded="True">
+            <Node name="HighestRevenue" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HighestRevenue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

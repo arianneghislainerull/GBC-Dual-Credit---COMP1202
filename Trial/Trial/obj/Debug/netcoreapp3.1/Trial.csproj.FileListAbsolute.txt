@@ -1,0 +1,12 @@
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/obj/Debug/netcoreapp3.1/Trial.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/obj/Debug/netcoreapp3.1/Trial.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/obj/Debug/netcoreapp3.1/Trial.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/obj/Debug/netcoreapp3.1/Trial.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/bin/Debug/netcoreapp3.1/Trial.deps.json
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/bin/Debug/netcoreapp3.1/Trial.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/bin/Debug/netcoreapp3.1/Trial.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/bin/Debug/netcoreapp3.1/Trial.dll
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/bin/Debug/netcoreapp3.1/Trial.pdb
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/obj/Debug/netcoreapp3.1/Trial.dll
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/obj/Debug/netcoreapp3.1/Trial.pdb
+/Users/stemmingup/Projects/DualCredit/Trial/Trial/obj/Debug/netcoreapp3.1/Trial.genruntimeconfig.cache

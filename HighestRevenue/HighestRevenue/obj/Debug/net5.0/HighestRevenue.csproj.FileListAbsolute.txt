@@ -1,0 +1,15 @@
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/bin/Debug/net5.0/HighestRevenue.deps.json
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/bin/Debug/net5.0/HighestRevenue.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/bin/Debug/net5.0/HighestRevenue.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/bin/Debug/net5.0/HighestRevenue.dll
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/bin/Debug/net5.0/ref/HighestRevenue.dll
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/bin/Debug/net5.0/HighestRevenue.pdb
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/HighestRevenue.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/HighestRevenue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/HighestRevenue.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/HighestRevenue.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/HighestRevenue.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/HighestRevenue.dll
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/ref/HighestRevenue.dll
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/HighestRevenue.pdb
+/Users/stemmingup/Projects/DualCredit/HighestRevenue/HighestRevenue/obj/Debug/net5.0/HighestRevenue.genruntimeconfig.cache

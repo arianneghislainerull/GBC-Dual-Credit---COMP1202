@@ -1,0 +1,15 @@
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/bin/Debug/net5.0/FirstMajorAssignment.deps.json
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/bin/Debug/net5.0/FirstMajorAssignment.runtimeconfig.json
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/bin/Debug/net5.0/FirstMajorAssignment.runtimeconfig.dev.json
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/bin/Debug/net5.0/FirstMajorAssignment.dll
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/bin/Debug/net5.0/ref/FirstMajorAssignment.dll
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/bin/Debug/net5.0/FirstMajorAssignment.pdb
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/FirstMajorAssignment.csprojAssemblyReference.cache
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/FirstMajorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/FirstMajorAssignment.AssemblyInfoInputs.cache
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/FirstMajorAssignment.AssemblyInfo.cs
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/FirstMajorAssignment.csproj.CoreCompileInputs.cache
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/FirstMajorAssignment.dll
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/ref/FirstMajorAssignment.dll
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/FirstMajorAssignment.pdb
+/Users/stemmingup/Projects/DualCredit/FirstMajorAssignment/FirstMajorAssignment/obj/Debug/net5.0/FirstMajorAssignment.genruntimeconfig.cache
